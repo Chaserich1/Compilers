@@ -1,0 +1,9 @@
+var x1 : 1
+start
+  in x1 ;
+  iterate ( ( x1 > > 0 ) )
+  start 
+      out x1 ;
+      x1 < < x1 - 1 ;
+  stop ;
+stop

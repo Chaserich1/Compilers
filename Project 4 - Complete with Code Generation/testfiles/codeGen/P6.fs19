@@ -1,0 +1,4 @@
+start
+  out 8 / 4 * 2 ;
+  out 8 / 7 ;
+stop

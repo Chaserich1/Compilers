@@ -1,0 +1,7 @@
+var x1 : 1
+start
+  in x1 ;
+  cond ( ( x1 > > 1 ) )
+    cond ( ( x1 < 10 ) ) 
+      out x1 ;
+stop

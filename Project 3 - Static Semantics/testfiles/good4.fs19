@@ -1,0 +1,14 @@
+var x1 : 1
+var x2 : 2
+start
+  var x1 : 3
+  var x3 : 4
+  in x1 ;
+  start
+    var x1 : 5
+    in x1 ;
+  stop ;
+  out x1 ;
+  out x2 ;
+  out x3 ;
+stop

@@ -1,0 +1,17 @@
+var l1 : 1
+var l2 : 2
+var l3 : 3
+start
+  var l2 : 2
+  var l1 : 3
+  start
+    var l3 : 4
+    out l1;
+    start
+      var l1 : 1
+      var l1 : 1
+      out l1 ;
+    stop ;
+  stop ;
+  out l3 ;
+stop

@@ -1,0 +1,10 @@
+var x1 : 1
+var x2 : 2
+start
+  var x3 : 3
+  var x3 : 4
+  cond ( ( x4 > 1 ))
+  start
+    out x3 ;
+  stop ;
+stop

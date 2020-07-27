@@ -1,0 +1,4 @@
+var x : 1
+start
+  out y ;
+stop

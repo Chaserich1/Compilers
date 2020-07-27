@@ -1,0 +1,5 @@
+start
+  var x1 : 1
+  in x1 ;
+  out x1 ;
+stop
